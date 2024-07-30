@@ -14,7 +14,6 @@
 
 -  [Documentation](#documentation)
 -  [Getting Started](#getting-started)
--  [Contribution](#contribution)
 -  [Support](#support)
 -  [LICENSE](#license)
 
@@ -55,15 +54,6 @@ import 'element-angular/theme/index.css'
 ```
 
 More: [Doc](https://element-angular.faas.ele.me)
-
-
-
-## Contribution
-
-- [Contribution Guide](https://github.com/eleme/element-angular/blob/master/.github/CONTRIBUTING.en-US.md)
-
-- [贡献指南](https://github.com/eleme/element-angular/blob/master/.github/CONTRIBUTING.zh-CN.md)
-
 
 
 ## Support

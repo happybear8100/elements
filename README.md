@@ -53,8 +53,6 @@ import 'element-angular/theme/index.css'
 
 ```
 
-More: [Doc](https://element-angular.faas.ele.me)
-
 
 ## Support
 
